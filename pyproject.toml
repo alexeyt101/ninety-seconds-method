@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ninety-seconds-method-bot"
+version = "0.1.0"
+description = "Telegram-bot for foreign words learning"
+authors = ["Alexey Pakhomov <a.pakhomov101@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
